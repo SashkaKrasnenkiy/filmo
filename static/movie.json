@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Breaking Bad",
+    "imdb": 9.5,
+    "description": "Сериал рассказывает о школьном учителе химии Уолтере Уайте...",
+    "product": "Sony Pictures Television",
+    "date": "2008",
+    "sposter": "static/img/breakingbad.jpg",
+    "bposter": "static/img/breakingbad1.jpg",
+    "genre": "Crime",
+    "type": "series",
+    "url": "movie.html?id=breakingbad",
+    "trailer": "static/video/Breaking Bad/Breaking Bad.S01E01.mkv",
+    "low": "video/breakingbad_low.webm",
+    "medium": "video/breakingbad_720p.mp4",
+    "high": "video/breakingbad_1080p.mp4",
+    "episodes": [
+      {
+        "title": "Pilot",
+        "imdb": 9.0,
+        "thumbnail": "static/img/Breakingbad1s/pilot.webp",
+        "date": "2008-01-20",
+        "url": "movie.html?id=breakingbad",
+        "trailer": "static/video/Breaking Bad/Breaking Bad.S01E01.mkv"
+      },
+      {
+        "title": "Cat's in the Bag...",
+        "imdb": 8.9,
+        "thumbnail": "static/img/Breakingbad1s/Cat's in the Bag....webp",
+        "date": "2008-01-27",
+        "url": "movie.html?id=breakingbads1e2",
+        "trailer": "static/video/Breaking Bad/Breaking Bad.S01E02.mkv"
+      },
+      {
+        "title": "And the Bag's in the River",
+        "imdb": 9.1,
+        "thumbnail": "static/img/Breakingbad1s/And the Bag's in the River.webp",
+        "date": "2008-02-10",
+        "url": "movie.html?id=breakingbads1e3",
+        "trailer": "static/video/Breaking Bad/Breaking Bad.S01E03.mkv"
+      },
+      {
+        "title": "Cancer Man",
+        "imdb": 8.8,
+        "thumbnail": "static/img/Breakingbad1s/Cancer Man.webp",
+        "date": "2008-02-17",
+        "url": "movie.html?id=breakingbads1e4",
+        "trailer": "static/video/Breaking Bad/Breaking Bad.S01E04.mkv"
+      },
+      {
+        "title": "Gray Matter",
+        "imdb": 8.7,
+        "thumbnail": "static/img/Breakingbad1s/Gray Matter.webp",
+        "date": "2008-02-24",
+        "url": "movie.html?id=breakingbads1e5",
+        "trailer": "static/video/Breaking Bad/Breaking Bad.S01E05.mkv"
+      },
+      {
+        "title": "Crazy Handful of Nothin'",
+        "imdb": 9.2,
+        "thumbnail": "static/img/Breakingbad1s/Crazy Handful of Nothin.webp",
+        "date": "2008-03-02",
+        "url": "movie.html?id=breakingbads1e6",
+        "trailer": "static/video/Breaking Bad/Breaking Bad.S01E06.mkv"
+      }
+    ]
+  },
+  {
+    "name": "The Boys",
+    "imdb": 9.3,
+    "description": "Сериал повествует о группе линчевателей, стремящихся обуздать коррумпированных супергероев, злоупотребляющих своими способностями.",
+    "date": "2022",
+    "sposter": "static/img/the boys.jpg",
+    "bposter": "static/img/the boys1.jpg",
+    "genre": "Action",
+    "type": "series",
+    "url": "movie.html?id=theboys",
+    "trailer": "static/video/theboys.mp4",
+    "low": "video/theboys.webm",
+    "medium": "video/the boys 720ph.mp4",
+    "high": "video/the boys 1080ph.mp4",
+    "episodes": [
+      {
+        "title": "Pilot",
+        "imdb": 9.1,
+        "thumbnail": "static/img/Theboys1s/pilot.webp",
+        "date": "2022-01-01",
+        "url": "movie.html?id=theboys",
+        "trailer": "static/video/theboys.mp4"
+      }
+    ]
+  },
+  {
+    "name": "Money Heist",
+    "imdb": 9.9,
+    "description": "Гениальный преступник, известный как Профессор, планирует крупнейшее ограбление в истории...",
+    "date": "2020",
+    "sposter": "static/img/money heist.jpg",
+    "bposter": "static/img/moneyheist1.jpg",
+    "genre": "Action",
+    "type": "series",
+    "url": "movie.html?id=moneyheist",
+    "trailer": "static/video/MoneyHeist.mp4",
+    "low": "video/money heist 480ph.mp4",
+    "medium": "video/money heist 720ph.mp4",
+    "high": "video/money heist 1080ph.mp4",
+    "episodes": [
+      {
+        "title": "La Casa de Papel",
+        "imdb": 9.4,
+        "thumbnail": "static/img/Moneyheist1s/pilot.webp",
+        "date": "2020-04-03",
+        "url": "movie.html?id=moneyheist",
+        "trailer": "static/video/MoneyHeist_s1e1_trailer.mp4"
+      }
+    ]
+  },
+  {
+    "name": "John Wick",
+    "imdb": 9.8,
+    "description": "После смерти жены бывший наемный убийца Джон Уик возвращается в криминальный мир...",
+    "date": "2022",
+    "sposter": "static/img/Jhon Wick.jpg",
+    "bposter": "static/img/jhon wick1.webp",
+    "genre": "Action",
+    "type": "movie",
+    "url": "movie.html?id=johnwick",
+    "trailer": "static/video/john wick.webm",
+    "low": "video/Jhon Wick 480ph.mp4",
+    "medium": "video/Jhon Wick 720ph.mp4",
+    "high": "video/Jhon Wick 1080ph.mp4",
+    "episodes": []
+  },
+  {
+    "name": "Ant Man",
+    "imdb": 8.9,
+    "description": "Мошенник Скотт Лэнг получает второй шанс...",
+    "date": "2017",
+    "sposter": "static/img/ant man.jpg",
+    "bposter": "static/img/ant man1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "movie.html?id=antman",
+    "trailer": "john wick trailer.mp4",
+    "low": "video/ant man 480ph.mp4",
+    "medium": "video/ant man 720ph.mp4",
+    "high": "video/ant man 1080ph.mp4",
+    "episodes": []
+  },
+  {
+    "name": "Avengers",
+    "imdb": 9.9,
+    "description": "Команда супергероев, включая Железного человека...",
+    "date": "2012",
+    "sposter": "static/img/avengers.jpg",
+    "bposter": "static/img/avengers1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "movie.html?id=avengers",
+    "trailer": "john wick trailer.mp4",
+    "low": "video/avengers 480ph.mp4",
+    "medium": "video/avengers 720ph.mp4",
+    "high": "video/avengers 1080ph.mp4",
+    "episodes": []
+  },
+  {
+    "name": "Moon Knight",
+    "imdb": 7.3,
+    "description": "Стивен Грант страдает от провалов в памяти...",
+    "date": "2022",
+    "sposter": "static/img/moon knight.jpg",
+    "bposter": "static/img/moon knight1.webp",
+    "genre": "Action",
+    "type": "series",
+    "url": "movie.html?id=moonknight",
+    "trailer": "john wick trailer.mp4",
+    "low": "video/moon knight 480ph.mp4",
+    "medium": "video/moon knight 720ph.mp4",
+    "high": "video/moon knight 1080ph.mp4",
+    "episodes": [
+      {
+        "title": "The Goldfish Problem",
+        "imdb": 7.5,
+        "thumbnail": "static/img/MoonKnight1s/pilot.webp",
+        "date": "2022-03-30",
+        "url": "movie.html?id=moonknight",
+        "trailer": "static/video/MoonKnight_s1e1_trailer.mp4"
+      }
+    ]
+  },
+  {
+    "name": "Kota Factory",
+    "imdb": 9.6,
+    "description": "История 16-летнего Вайбхава...",
+    "date": "2020",
+    "sposter": "static/img/kota factory.jpg",
+    "bposter": "static/img/kota factory1.webp",
+    "genre": "Action",
+    "type": "series",
+    "url": "movie.html?id=kotafactory",
+    "trailer": "john wick trailer.mp4",
+    "low": "video/kota factory 480ph.mp4",
+    "medium": "video/kota factory 720ph.mp4",
+    "high": "video/kota factory 1080ph.mp4",
+    "episodes": [
+      {
+        "title": "The Factory",
+        "imdb": 9.7,
+        "thumbnail": "static/img/KotaFactory1s/pilot.webp",
+        "date": "2020-04-16",
+        "url": "movie.html?id=kotafactory",
+        "trailer": "static/video/KotaFactory_s1e1_trailer.mp4"
+      }
+    ]
+  },
+  {
+    "name": "College Romance",
+    "imdb": 7.9,
+    "description": "Трое лучших друзей ищут любовь и веселье...",
+    "date": "2021",
+    "sposter": "static/img/collage romance.jpg",
+    "bposter": "static/img/collage romance1.jpg",
+    "genre": "Action",
+    "type": "series",
+    "url": "movie.html?id=collegeromance",
+    "trailer": "john wick trailer.mp4",
+    "low": "video/collage romance 480ph.mp4",
+    "medium": "video/collage romance 720ph.mp4",
+    "high": "video/collage romance 1080ph.mp4",
+    "episodes": [
+      {
+        "title": "Pilot",
+        "imdb": 8.0,
+        "thumbnail": "static/img/CollegeRomance1s/pilot.webp",
+        "date": "2021-02-04",
+        "url": "movie.html?id=collegeromance",
+        "trailer": "static/video/CollegeRomance_s1e1_trailer.mp4"
+      }
+    ]
+  },
+  {
+    "name": "Thor Love Of Thunder",
+    "imdb": 8.8,
+    "description": "Тор пытается найти внутренний покой...",
+    "date": "2022",
+    "sposter": "static/img/thor love of thunder.jpg",
+    "bposter": "static/img/thor love of thunder1.avif",
+    "genre": "Action",
+    "type": "movie",
+    "url": "movie.html?id=thorloveofthunder",
+    "trailer": "john wick trailer.mp4",
+    "low": "video/thor love of thunder 480ph.mp4",
+    "medium": "video/thor love of thunder 720ph.mp4",
+    "high": "video/thor love of thunder 1080ph.mp4",
+    "episodes": []
+  },
+  {
+    "name": "Uncharted",
+    "imdb": 9.8,
+    "description": "Молодой охотник за сокровищами Нэйтан Дрейк...",
+    "date": "2022",
+    "sposter": "static/img/uncharted.webp",
+    "bposter": "static/img/uncharted1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "movie.html?id=uncharted",
+    "trailer": "john wick trailer.mp4",
+    "low": "video/uncharted 480ph.mp4",
+    "medium": "video/uncharted 720ph.mp4",
+    "high": "video/uncharted 1080ph.mp4",
+    "episodes": []
+  },
+  {
+    "name": "Eesho",
+    "imdb": 8.2,
+    "description": "Саспенс-триллер из Индии...",
+    "date": "2022",
+    "sposter": "static/img/eesho.jpeg",
+    "bposter": "static/img/eesho1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "movie.html?id=eesho",
+    "trailer": "john wick trailer.mp4",
+    "low": "video/eesho 480ph.mp4",
+    "medium": "video/eesho 720ph.mp4",
+    "high": "video/eesho 1080ph.mp4",
+    "episodes": []
+  },
+  {
+    "name": "Top Gun",
+    "imdb": 8.0,
+    "description": "Пит Митчелл возвращается в летную школу ВМС США...",
+    "date": "2022",
+    "sposter": "static/img/topgun.jpg",
+    "bposter": "static/img/topgun1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "movie.html?id=topgun",
+    "trailer": "john wick trailer.mp4",
+    "low": "video/topgun 480ph.mp4",
+    "medium": "video/topgun 720ph.mp4",
+    "high": "video/topgun 1080ph.mp4",
+    "episodes": []
+  },
+  {
+    "name": "Jurassic World",
+    "imdb": 8.0,
+    "description": "Мир, где динозавры живут бок о бок с людьми...",
+    "date": "2022",
+    "sposter": "static/img/jurassic world.jpg",
+    "bposter": "static/img/jurassic world1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "movie.html?id=jurassicworld",
+    "trailer": "static/video/jurasic world.webm",
+    "low": "video/jurassic world 480ph.mp4",
+    "medium": "video/jurassic world 720ph.mp4",
+    "high": "video/jurassic world 1080ph.mp4",
+    "episodes": []
+  },
+  {
+    "name": "Eternals",
+    "imdb": 9.0,
+    "description": "Группа бессмертных выходит из тени, чтобы защитить человечество...",
+    "date": "2022",
+    "sposter": "static/img/eternals.jpg",
+    "bposter": "static/img/eternals1.webp",
+    "genre": "Action",
+    "type": "movie",
+    "url": "movie.html?id=eternals",
+    "trailer": "john wick trailer.mp4",
+    "low": "video/eternals 480ph.mp4",
+    "medium": "video/eternals 720ph.mp4",
+    "high": "video/eternals 1080ph.mp4",
+    "episodes": []
+  },
+  {
+    "name": "Spider Man",
+    "imdb": 9.9,
+    "description": "После того как личность Питера Паркера раскрыта...",
+    "date": "2020",
+    "sposter": "static/img/spiderman.jpg",
+    "bposter": "static/img/spiderman1.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "movie.html?id=spiderman",
+    "trailer": "john wick trailer.mp4",
+    "low": "video/spiderman 480ph.mp4",
+    "medium": "video/spiderman 720ph.mp4",
+    "high": "video/spiderman 1080ph.mp4",
+    "episodes": []
+  }
+]
