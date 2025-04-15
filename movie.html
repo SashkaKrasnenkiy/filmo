@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kino</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="static/style/movie.css">
+</head>
+
+<body>
+    <div id="header-content">
+        <img src="static/img/film-reel.png" alt="">
+            <ul>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="#">Series</a>
+                </li>
+                <li>
+                    <a href="index.html#left-series">Movies</a>
+                </li>
+                <li>
+                    <a href="#">Kids</a>
+                </li>
+            </ul>
+    </div>
+
+    <header>
+        
+        <div id="video-container">
+            <video id="video" src="static/video/theboys.mp4" autoplay playsinline></video>
+            <div class="episode-name" id="episode-name">Во все тяжкие – Серия 1</div>
+            <div class="controls">
+                
+                <button onclick="rewind()"><i class="bi bi-chevron-left" id="left"></i></button>
+                <button onclick="togglePlay()"><i class="bi bi-play"></i></button>
+                <button onclick="forward()"><i class="bi bi-chevron-right" id="right"></i></button>
+            </div>
+
+            <button id="fullscreen-btn" onclick="toggleFullscreen()"><i class="bi bi-fullscreen"></i></button>
+
+            <div class="bottom-bar">
+                <input type="range" id="progress" value="0" min="0" max="100">
+                <input type="range" id="volume" min="0" max="1" step="0.01" value="0.1">
+            </div>
+        </div>
+
+    </header>
+   <!-- Список серий -->
+<div class="Seson">
+  
+    <!-- <div class="series">
+        <a href="#" class="card">
+            <img id="bposter" src="static/img/breakingbad1.jpg" alt="">
+            <div class="cont">
+                <div class="movie-info">
+                    <h2 id="title">Заголовок</h2>
+                    <p><strong>Жанр:</strong> <span id="gen"></span></p>
+                    <p><strong>Год:</strong> <span id="date"></span></p>
+                    <p id="rate"></p>
+                </div>
+            </div>
+        </a>
+    </div> -->
+    <div id="episode-list"></div>
+</div>
+ <div class="main" >
+        <section>
+            <h4>Series</h4>
+            <i class="bi bi-chevron-left" id="left-series"></i>
+            <i class="bi bi-chevron-right" id="right-series"></i>
+        
+            <div class="cards"  id="cards-series">
+                <!-- </a><a href="#" class="card">
+                    <img src="static/img/the boys.jpg" alt="" class="poster">
+                <div class="rest_card">
+                    <img src="static/img/the boys1.jpg" alt="">
+                    <div class="cont">
+                        <h4>The Boys</h4>
+                        <div class="sub">
+                            <p>Action, 2021</p>
+                            
+                        </div>
+                    </div>
+                </div>
+                </a> -->
+        
+        
+            </div>
+        </section>
+    </div>
+
+    <script src="static/movie.js"></script>
+</body>
+
+</html>
